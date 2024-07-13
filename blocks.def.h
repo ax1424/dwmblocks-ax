@@ -9,6 +9,8 @@ static const Block blocks[] = {
 	
 	{"💻 Mem:", "~/.suckless/dwmblocks-ax/scripts/memory",			6,						1},
 	
+	{"💾 ", "~/.suckless/dwmblocks-ax/scripts/disk",				60,						1},
+	
 	{"🔊 ", "~/.suckless/dwmblocks-ax/scripts/volume",   			0,						10},
 	
 	{"🔋 Bat: ", "~/.suckless/dwmblocks-ax/scripts/bat",			60,						0},
