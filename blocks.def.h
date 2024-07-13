@@ -3,11 +3,11 @@ static const Block blocks[] = {
 	/*Icon*/				/*Command*/						/*Update Interval*/		/*Update Signal*/
 	{"🐧 ", "~/.suckless/dwmblocks-ax/scripts/kernel",				360,					2},
 	
-	{"📦 ", "~/.suckless/dwmblocks-ax/scripts/pacupdate",			360,					9},
-	
 	{"🔺 ",	 "~/.suckless/dwmblocks-ax/scripts/upt",				60,						2},
 	
-	{"💻 Mem:", "~/.suckless/dwmblocks-ax/scripts/memory",			6,						1},
+	{"📦 ", "~/.suckless/dwmblocks-ax/scripts/pacupdate",			360,					9},
+	
+	{"💻 Mem: ", "~/.suckless/dwmblocks-ax/scripts/memory",			6,						1},
 	
 	{"💾 ", "~/.suckless/dwmblocks-ax/scripts/disk",				60,						1},
 	
